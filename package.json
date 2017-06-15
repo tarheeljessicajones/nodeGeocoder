@@ -1,0 +1,22 @@
+{
+  "name": "nodegeocoder",
+  "version": "1.0.0",
+  "description": "Utilizes the Geocoder NPM package to extract location data",
+  "main": "geocoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarheeljessicajones/nodeGeocoder.git"
+  },
+  "author": "Jessica Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarheeljessicajones/nodeGeocoder/issues"
+  },
+  "homepage": "https://github.com/tarheeljessicajones/nodeGeocoder#readme",
+  "dependencies": {
+    "geocoder": "^0.2.3"
+  }
+}
